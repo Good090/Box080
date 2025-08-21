@@ -1,0 +1,6 @@
+aiogram==3.4.1
+pydantic==2.8.2
+pydantic-settings==2.4.0
+yt-dlp==2024.10.07
+uvloop==0.20.0
+python-dotenv==1.0.1
